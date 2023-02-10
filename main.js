@@ -38,7 +38,7 @@ function afficherTableau(){
     divResultat.innerHTML = txt;
 }
 function getImage(valeur){
-    var imageTxt="image/";
+    var imageTxt="Image/";
     switch (valeur) {
         case 1: imageTxt +="elephant.png";
             
